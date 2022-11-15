@@ -1,0 +1,75 @@
+.anasayfa{
+background-image: url(../video/itachi5.gif);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+text-align: right;
+}
+.icMenu{
+color: brown;
+}
+.tdRel{
+background-attachment: fixed;
+}
+.menu:hover{
+text-shadow: 0px -3px #500;
+color: brown;
+}
+.galeriDiv{
+text-align: right;
+}
+.galeri{
+width: 265px;
+height: 149px;
+}
+.galeriBody{
+background-color: black;
+background-image: url(../video/itachi9.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto 730px;
+}
+.menuDiv{
+position: fixed;
+top: 200px;
+left: 500px;
+}
+.yetenek{
+width: 500px;
+height: auto;
+}
+.baslik{
+font-size: x-large;
+color:	#900020;
+text-shadow: 0 -2px #500000;
+}
+.baslik:hover{
+color: 	#900020;
+text-shadow: 0 2px #500;
+}
+.icerik{
+font-size: large;
+color:	#900020;
+}
+.itachi{
+background-color: black;
+text-align: center;
+background-image: url(../video/itachi9.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto 730px;
+}
+.tabloIt{
+width: 100%;
+height: 100%;
+}
+.giris{
+font-size: xx-large;
+color: 	#900020;
+}
+.giris:hover{
+text-shadow: 0px -15px black;
+}
+a{
+text-decoration: none;
+color: 	#900020;
+}
